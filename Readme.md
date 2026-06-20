@@ -1,4 +1,4 @@
-# Maven Analytics - Sales Pipeline Analysis
+# Sales Pipeline Analysis
 
 Repositori ini berisi proyek analisis data *Sales Pipeline* untuk melacak tren performa penjualan kuartalan menggunakan Microsoft Excel dan Power Query.
 
